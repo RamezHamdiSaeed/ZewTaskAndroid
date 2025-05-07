@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Mains",
+    "id": "3D97FAB4-50AC-40FC-9BF0-3F46BB6A92F5",
+    "items": [
+      {
+        "id": "F0B4DF27-B293-4151-8480-FA46DFCA5BBB",
+        "name": "Cheese Toastie",
+        "photoCredit": "Asnim Asnim",
+        "price": 7,
+        "restrictions": ["G"],
+        "description": "It's just two slices of bread; not that complicated, really. Oh, and cheese, obviously. Wait… and bacon it seems? I can't really tell – I'm squinting at the picture and it looks like it's bacon. Maybe it's lettuce? Honestly, your guess is as good as mine."
+      },
+      {
+        "id": "A73E2D2D-D53A-46D4-8829-62011EEF7DA4",
+        "name": "All Out Donuts",
+        "photoCredit": "Kobby Mendez",
+        "price": 5,
+        "restrictions": ["G", "V"],
+        "description": "Donuts! More donuts! And yet more donuts! Exactly how many you get depends on the day – we pretty much cram them all on to a plate then see how many we can balance as we walk them to your table."
+      },
+      {
+        "id": "DE58CEFF-7023-4B60-88CC-80C5B7BFB6EC",
+        "name": "Chrysanthemum Tea",
+        "photoCredit": "Loverna Journey",
+        "price": 4,
+        "restrictions": ["V"],
+        "description": "This is tea made from chrysanthemum. No, we're not quite sure how that works either. Do we press the leaves? Is chrysanthemum even a plant? It sounds like some sort of wild animal. Maybe we milked it to make this drink."
+      }
+    ]
+  }
+]
