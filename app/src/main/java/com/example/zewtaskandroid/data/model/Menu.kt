@@ -1,6 +1,4 @@
-package com.example.zewtaskandroid
-
-import java.util.UUID
+package com.example.zewtaskandroid.data.model
 
 data class MenuSection(
     val id: String,

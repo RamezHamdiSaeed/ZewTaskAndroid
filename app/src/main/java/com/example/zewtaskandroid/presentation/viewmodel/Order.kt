@@ -1,4 +1,6 @@
-package com.example.zewtaskandroid
+package com.example.zewtaskandroid.presentation.viewmodel
+
+import com.example.zewtaskandroid.data.model.MenuItem
 
 class Order {
     private val items = mutableListOf<MenuItem>()

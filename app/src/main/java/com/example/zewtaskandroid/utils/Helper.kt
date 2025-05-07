@@ -1,4 +1,4 @@
-package com.example.zewtaskandroid
+package com.example.zewtaskandroid.utils
 import android.content.Context
 import com.google.gson.Gson
 import java.io.IOException
